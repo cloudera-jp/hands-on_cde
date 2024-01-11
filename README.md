@@ -1,1 +1,1 @@
-# hands-on_cde
+# Cloudera Data Engineering Hands-on
